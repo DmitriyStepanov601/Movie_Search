@@ -1,6 +1,6 @@
 # Movie Search App
 
-Demo:https://dmitriystepanov601.github.io/Movie_Search_App/
+Demo: https://dmitriystepanov601.github.io/Movie_Search_App/
 
 ![2021-12-29_18-27-24](https://user-images.githubusercontent.com/61186198/147678272-e1b88038-a0b1-4d63-b288-7e0e57b773b7.png)
 
